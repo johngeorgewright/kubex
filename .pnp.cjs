@@ -38,7 +38,7 @@ const RAW_RUNTIME_STATE =
           ["@semantic-release/github", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:11.0.3"],\
           ["@semantic-release/release-notes-generator", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:14.0.3"],\
           ["@types/node", "npm:22.15.33"],\
-          ["@types/semantic-release", "npm:20.0.6"],\
+          ["@types/semantic-release", "npm:21.1.0"],\
           ["@types/source-map-support", "npm:0.5.10"],\
           ["commitizen", "npm:4.3.1"],\
           ["concurrently", "npm:9.2.0"],\
@@ -658,7 +658,7 @@ const RAW_RUNTIME_STATE =
           ["@semantic-release/github", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:11.0.3"],\
           ["@semantic-release/release-notes-generator", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:14.0.3"],\
           ["@types/node", "npm:22.15.33"],\
-          ["@types/semantic-release", "npm:20.0.6"],\
+          ["@types/semantic-release", "npm:21.1.0"],\
           ["@types/source-map-support", "npm:0.5.10"],\
           ["commitizen", "npm:4.3.1"],\
           ["concurrently", "npm:9.2.0"],\
@@ -857,7 +857,7 @@ const RAW_RUNTIME_STATE =
           ["lru-cache", "npm:10.0.1"],\
           ["npm-pick-manifest", "npm:9.0.0"],\
           ["proc-log", "npm:3.0.0"],\
-          ["promise-inflight", "virtual:a7e5239c6ae68bf6359adfd3598326db000e94dbb349bc00a3852ed53a31712a0e2e787228c6e859d3e5cf2fbb872aba1ea4abe4995cef8086a77ef619ae1be6#npm:1.0.1"],\
+          ["promise-inflight", "virtual:c9831e8fb6f434d34af75c932c9f9d02d34047814515d4a022e68c59bdd4f3182ac17b333d319fe48b4594ad21408aa30eed1e40906a1b0396840741d98422e5#npm:1.0.1"],\
           ["promise-retry", "npm:2.0.1"],\
           ["semver", "npm:7.3.5"],\
           ["which", "npm:4.0.0"]\
@@ -1580,7 +1580,7 @@ const RAW_RUNTIME_STATE =
           ["conventional-changelog-writer", "npm:8.0.0"],\
           ["conventional-commits-filter", "npm:5.0.0"],\
           ["conventional-commits-parser", "npm:6.0.0"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["import-from-esm", "npm:1.2.0"],\
           ["lodash-es", "npm:4.17.21"],\
           ["micromatch", "npm:4.0.8"],\
@@ -1596,12 +1596,12 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/@semantic-release-commit-analyzer-virtual-e62df7d4d7/0/cache/@semantic-release-commit-analyzer-npm-13.0.1-11c96deec0-5b5a1e72f3.zip/node_modules/@semantic-release/commit-analyzer/",\
         "packageDependencies": [\
           ["@semantic-release/commit-analyzer", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:13.0.1"],\
-          ["@types/semantic-release", "npm:20.0.6"],\
+          ["@types/semantic-release", "npm:21.1.0"],\
           ["conventional-changelog-angular", "npm:8.0.0"],\
           ["conventional-changelog-writer", "npm:8.0.0"],\
           ["conventional-commits-filter", "npm:5.0.0"],\
           ["conventional-commits-parser", "npm:6.0.0"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["import-from-esm", "npm:2.0.0"],\
           ["lodash-es", "npm:4.17.21"],\
           ["micromatch", "npm:4.0.8"],\
@@ -1643,9 +1643,9 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@semantic-release/error", "npm:3.0.0"],\
           ["@semantic-release/exec", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:6.0.3"],\
-          ["@types/semantic-release", "npm:20.0.6"],\
+          ["@types/semantic-release", "npm:21.1.0"],\
           ["aggregate-error", "npm:3.1.0"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["execa", "npm:5.1.1"],\
           ["lodash", "npm:4.17.21"],\
           ["parse-json", "npm:5.2.0"],\
@@ -1671,9 +1671,9 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@semantic-release/error", "npm:3.0.0"],\
           ["@semantic-release/git", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:10.0.1"],\
-          ["@types/semantic-release", "npm:20.0.6"],\
+          ["@types/semantic-release", "npm:21.1.0"],\
           ["aggregate-error", "npm:3.1.0"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["dir-glob", "npm:3.0.1"],\
           ["execa", "npm:5.1.1"],\
           ["lodash", "npm:4.17.21"],\
@@ -1741,7 +1741,7 @@ const RAW_RUNTIME_STATE =
           ["@octokit/plugin-throttling", "virtual:8ab5c2a3fb3e05bc2ff9065b41703c649e6c2233498bf3665c34928d6c3b2d2f3521496eb3f0dfbf9fcaafe767bce5641fe11312e6ecc276eef780e1a4807843#npm:11.0.1"],\
           ["@semantic-release/error", "npm:4.0.0"],\
           ["@semantic-release/github", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:11.0.3"],\
-          ["@types/semantic-release", "npm:20.0.6"],\
+          ["@types/semantic-release", "npm:21.1.0"],\
           ["aggregate-error", "npm:5.0.0"],\
           ["debug", "virtual:8866147795d308091c464175a42e9db9c8525e58f8ee83ac382b2a6d7dfca9f0262a439c98e1e6c97839fb23bdce1374c6611813b5e2e1c7d2aa725e24e64d29#npm:4.3.4"],\
           ["dir-glob", "npm:3.0.1"],\
@@ -1821,7 +1821,7 @@ const RAW_RUNTIME_STATE =
           ["conventional-changelog-writer", "npm:8.0.0"],\
           ["conventional-commits-filter", "npm:5.0.0"],\
           ["conventional-commits-parser", "npm:6.0.0"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["get-stream", "npm:7.0.0"],\
           ["import-from-esm", "npm:1.2.0"],\
           ["into-stream", "npm:7.0.0"],\
@@ -1839,12 +1839,12 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/@semantic-release-release-notes-generator-virtual-1b7f51e4af/0/cache/@semantic-release-release-notes-generator-npm-14.0.3-3a8d8e726f-6d851eaa07.zip/node_modules/@semantic-release/release-notes-generator/",\
         "packageDependencies": [\
           ["@semantic-release/release-notes-generator", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:14.0.3"],\
-          ["@types/semantic-release", "npm:20.0.6"],\
+          ["@types/semantic-release", "npm:21.1.0"],\
           ["conventional-changelog-angular", "npm:8.0.0"],\
           ["conventional-changelog-writer", "npm:8.0.0"],\
           ["conventional-commits-filter", "npm:5.0.0"],\
           ["conventional-commits-parser", "npm:6.0.0"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["get-stream", "npm:7.0.0"],\
           ["import-from-esm", "npm:2.0.0"],\
           ["into-stream", "npm:7.0.0"],\
@@ -2109,11 +2109,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/semantic-release", [\
-      ["npm:20.0.6", {\
-        "packageLocation": "./.yarn/cache/@types-semantic-release-npm-20.0.6-da4497e6ad-7e2c186b07.zip/node_modules/@types/semantic-release/",\
+      ["npm:21.1.0", {\
+        "packageLocation": "./.yarn/cache/@types-semantic-release-npm-21.1.0-6902f9c5ae-0551db8060.zip/node_modules/@types/semantic-release/",\
         "packageDependencies": [\
-          ["@types/node", "npm:16.7.13"],\
-          ["@types/semantic-release", "npm:20.0.6"]\
+          ["@types/semantic-release", "npm:21.1.0"],\
+          ["semantic-release", "npm:24.2.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2294,7 +2294,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/agent-base-npm-6.0.2-428f325a93-21fb903e09.zip/node_modules/agent-base/",\
         "packageDependencies": [\
           ["agent-base", "npm:6.0.2"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"]\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"]\
         ],\
         "linkType": "HARD"\
       }],\
@@ -2312,7 +2312,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/agentkeepalive-npm-4.1.4-4d5b41b4c1-848634c4e1.zip/node_modules/agentkeepalive/",\
         "packageDependencies": [\
           ["agentkeepalive", "npm:4.1.4"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["depd", "npm:1.1.2"],\
           ["humanize-ms", "npm:1.2.1"]\
         ],\
@@ -2768,7 +2768,7 @@ const RAW_RUNTIME_STATE =
           ["minipass-pipeline", "npm:1.2.4"],\
           ["mkdirp", "npm:1.0.4"],\
           ["p-map", "npm:4.0.0"],\
-          ["promise-inflight", "virtual:a7e5239c6ae68bf6359adfd3598326db000e94dbb349bc00a3852ed53a31712a0e2e787228c6e859d3e5cf2fbb872aba1ea4abe4995cef8086a77ef619ae1be6#npm:1.0.1"],\
+          ["promise-inflight", "virtual:c9831e8fb6f434d34af75c932c9f9d02d34047814515d4a022e68c59bdd4f3182ac17b333d319fe48b4594ad21408aa30eed1e40906a1b0396840741d98422e5#npm:1.0.1"],\
           ["rimraf", "npm:3.0.2"],\
           ["ssri", "npm:8.0.1"],\
           ["tar", "npm:6.1.11"],\
@@ -3635,11 +3635,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2", {\
-        "packageLocation": "./.yarn/__virtual__/debug-virtual-e152771b72/0/cache/debug-npm-4.3.2-f0148b6afe-6a2980374e.zip/node_modules/debug/",\
+      ["virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2", {\
+        "packageLocation": "./.yarn/__virtual__/debug-virtual-c35f759599/0/cache/debug-npm-4.3.2-f0148b6afe-6a2980374e.zip/node_modules/debug/",\
         "packageDependencies": [\
           ["@types/supports-color", null],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["ms", "npm:2.1.2"],\
           ["supports-color", null]\
         ],\
@@ -4881,7 +4881,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@tootallnate/once", "npm:1.1.2"],\
           ["agent-base", "npm:6.0.2"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["http-proxy-agent", "npm:4.0.1"]\
         ],\
         "linkType": "HARD"\
@@ -4901,7 +4901,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/https-proxy-agent-npm-5.0.0-bb777903c3-517037badc.zip/node_modules/https-proxy-agent/",\
         "packageDependencies": [\
           ["agent-base", "npm:6.0.2"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["https-proxy-agent", "npm:5.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -4910,7 +4910,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/https-proxy-agent-npm-7.0.0-eb510b3d1b-82faa9c9fc.zip/node_modules/https-proxy-agent/",\
         "packageDependencies": [\
           ["agent-base", "npm:7.1.0"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["https-proxy-agent", "npm:7.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -4919,7 +4919,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/https-proxy-agent-npm-7.0.2-83ea6a5d42-9ec844f78f.zip/node_modules/https-proxy-agent/",\
         "packageDependencies": [\
           ["agent-base", "npm:7.1.0"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["https-proxy-agent", "npm:7.0.2"]\
         ],\
         "linkType": "HARD"\
@@ -7619,12 +7619,12 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:a7e5239c6ae68bf6359adfd3598326db000e94dbb349bc00a3852ed53a31712a0e2e787228c6e859d3e5cf2fbb872aba1ea4abe4995cef8086a77ef619ae1be6#npm:1.0.1", {\
-        "packageLocation": "./.yarn/__virtual__/promise-inflight-virtual-b427a57c8f/0/cache/promise-inflight-npm-1.0.1-5bb925afac-1560d413ea.zip/node_modules/promise-inflight/",\
+      ["virtual:c9831e8fb6f434d34af75c932c9f9d02d34047814515d4a022e68c59bdd4f3182ac17b333d319fe48b4594ad21408aa30eed1e40906a1b0396840741d98422e5#npm:1.0.1", {\
+        "packageLocation": "./.yarn/__virtual__/promise-inflight-virtual-8a42b61d1d/0/cache/promise-inflight-npm-1.0.1-5bb925afac-1560d413ea.zip/node_modules/promise-inflight/",\
         "packageDependencies": [\
           ["@types/bluebird", null],\
           ["bluebird", null],\
-          ["promise-inflight", "virtual:a7e5239c6ae68bf6359adfd3598326db000e94dbb349bc00a3852ed53a31712a0e2e787228c6e859d3e5cf2fbb872aba1ea4abe4995cef8086a77ef619ae1be6#npm:1.0.1"]\
+          ["promise-inflight", "virtual:c9831e8fb6f434d34af75c932c9f9d02d34047814515d4a022e68c59bdd4f3182ac17b333d319fe48b4594ad21408aa30eed1e40906a1b0396840741d98422e5#npm:1.0.1"]\
         ],\
         "packagePeers": [\
           "@types/bluebird",\
@@ -8106,7 +8106,7 @@ const RAW_RUNTIME_STATE =
           ["@semantic-release/release-notes-generator", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:14.0.1"],\
           ["aggregate-error", "npm:5.0.0"],\
           ["cosmiconfig", "virtual:8db6360698ad96cf4b25d1172a40395172958e0549466343255618b9c4b0c60af8d85565dd602407804feddb0d412d25606d8d9faedb04655cf7d13a90395456#npm:9.0.0"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["env-ci", "npm:11.0.0"],\
           ["execa", "npm:9.0.2"],\
           ["figures", "npm:6.0.1"],\
@@ -8391,7 +8391,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/socks-proxy-agent-npm-5.0.1-dc5271bb57-6370e43850.zip/node_modules/socks-proxy-agent/",\
         "packageDependencies": [\
           ["agent-base", "npm:6.0.2"],\
-          ["debug", "virtual:4d5b41b4c144bc0f7c0e4c4c2164d0bc5d527811557a2fd7f2ec3307b1cf1ca97f42a730a90b32caada41091b3e922a1e5a2d8c6ff2841b6857305532c68aca8#npm:4.3.2"],\
+          ["debug", "virtual:2e5c75c42732affab235599608c1220dd24a550ed512805523b6ad9e92c9a36a48e66c436f339795a0ac0c3589139ca5065c3f693592ab0469d99f4d4744a0ff#npm:4.3.2"],\
           ["socks", "npm:2.6.1"],\
           ["socks-proxy-agent", "npm:5.0.1"]\
         ],\
