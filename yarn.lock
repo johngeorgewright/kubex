@@ -528,7 +528,7 @@ __metadata:
     "@semantic-release/commit-analyzer": "npm:13.0.1"
     "@semantic-release/exec": "npm:6.0.3"
     "@semantic-release/git": "npm:10.0.1"
-    "@semantic-release/github": "npm:11.0.5"
+    "@semantic-release/github": "npm:11.0.6"
     "@semantic-release/release-notes-generator": "npm:14.1.0"
     "@types/node": "npm:22.18.1"
     "@types/semantic-release": "npm:20.0.6"
@@ -542,7 +542,7 @@ __metadata:
     prettier: "npm:3.6.2"
     renamer: "npm:5.0.2"
     rimraf: "npm:6.0.1"
-    semantic-release: "npm:24.2.7"
+    semantic-release: "npm:24.2.8"
     source-map-support: "npm:0.5.21"
     ts-node: "npm:10.9.2"
     tslib: "npm:^2.8.0"
@@ -1349,9 +1349,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@semantic-release/github@npm:11.0.5":
-  version: 11.0.5
-  resolution: "@semantic-release/github@npm:11.0.5"
+"@semantic-release/github@npm:11.0.6":
+  version: 11.0.6
+  resolution: "@semantic-release/github@npm:11.0.6"
   dependencies:
     "@octokit/core": "npm:^7.0.0"
     "@octokit/plugin-paginate-rest": "npm:^13.0.0"
@@ -1361,17 +1361,17 @@ __metadata:
     aggregate-error: "npm:^5.0.0"
     debug: "npm:^4.3.4"
     dir-glob: "npm:^3.0.1"
-    globby: "npm:^14.0.0"
     http-proxy-agent: "npm:^7.0.0"
     https-proxy-agent: "npm:^7.0.0"
     issue-parser: "npm:^7.0.0"
     lodash-es: "npm:^4.17.21"
     mime: "npm:^4.0.0"
     p-filter: "npm:^4.0.0"
+    tinyglobby: "npm:^0.2.14"
     url-join: "npm:^5.0.0"
   peerDependencies:
     semantic-release: ">=24.1.0"
-  checksum: 10/825bbd1ad9ec96e0abf56822a1978e0f6dcd998e81c4a016e23f16f2977c78d88189e2c8f105156bbd4f583e17144ad8293bda713df376c73547ca171b35cdf1
+  checksum: 10/286a8fd19b83935ec142502282b6f8448ccbe22e711c333ed037e588333eda6ca1590b2f87bce3d5521d0ffecaba6bb193642ab174a7950835c11c248151b650
   languageName: node
   linkType: hard
 
@@ -3486,6 +3486,18 @@ __metadata:
   languageName: node
   linkType: hard
 
+"fdir@npm:^6.5.0":
+  version: 6.5.0
+  resolution: "fdir@npm:6.5.0"
+  peerDependencies:
+    picomatch: ^3 || ^4
+  peerDependenciesMeta:
+    picomatch:
+      optional: true
+  checksum: 10/14ca1c9f0a0e8f4f2e9bf4e8551065a164a09545dae548c12a18d238b72e51e5a7b39bd8e5494b56463a0877672d0a6c1ef62c6fa0677db1b0c847773be939b1
+  languageName: node
+  linkType: hard
+
 "figures@npm:^2.0.0":
   version: 2.0.0
   resolution: "figures@npm:2.0.0"
@@ -4108,10 +4120,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hook-std@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "hook-std@npm:3.0.0"
-  checksum: 10/f1f0ca88bbbca2306b9c2c342f45fbecb318ad5496bcbde1fcfc2a64dab0feabd50278a613f683edf07225c4b8b75b3c64ad3f1fca090dd0cae426fdec374a56
+"hook-std@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "hook-std@npm:4.0.0"
+  checksum: 10/82a3becad2e7ec3a9da25eb26dbfa584015f5bfabaddc6c999f079e6c65166e6902f37783819b996be4621cec30945cc6468c539134184e7b265196964488467
   languageName: node
   linkType: hard
 
@@ -6595,6 +6607,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"picomatch@npm:^4.0.3":
+  version: 4.0.3
+  resolution: "picomatch@npm:4.0.3"
+  checksum: 10/57b99055f40b16798f2802916d9c17e9744e620a0db136554af01d19598b96e45e2f00014c91d1b8b13874b80caa8c295b3d589a3f72373ec4aaf54baa5962d5
+  languageName: node
+  linkType: hard
+
 "pidtree@npm:^0.6.0":
   version: 0.6.0
   resolution: "pidtree@npm:0.6.0"
@@ -7150,9 +7169,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semantic-release@npm:24.2.7":
-  version: 24.2.7
-  resolution: "semantic-release@npm:24.2.7"
+"semantic-release@npm:24.2.8":
+  version: 24.2.8
+  resolution: "semantic-release@npm:24.2.8"
   dependencies:
     "@semantic-release/commit-analyzer": "npm:^13.0.0-beta.1"
     "@semantic-release/error": "npm:^4.0.0"
@@ -7168,7 +7187,7 @@ __metadata:
     find-versions: "npm:^6.0.0"
     get-stream: "npm:^6.0.0"
     git-log-parser: "npm:^1.2.0"
-    hook-std: "npm:^3.0.0"
+    hook-std: "npm:^4.0.0"
     hosted-git-info: "npm:^8.0.0"
     import-from-esm: "npm:^2.0.0"
     lodash-es: "npm:^4.17.21"
@@ -7185,7 +7204,7 @@ __metadata:
     yargs: "npm:^17.5.1"
   bin:
     semantic-release: bin/semantic-release.js
-  checksum: 10/756bae4989129ca35478043febabb2a0c72fa38406b37813c698d6675604ec79f468a495160fc618e065e2fed9151f89b1c91a1a25d56fd89341c2f5aa96bab5
+  checksum: 10/11ed07b36dac744561c179b7b43ebf1a4dfb46de28626d1f556f18164054908d4d261ee9c2f1095cfa90b884c44f5088d1699cd677d19a3527bfe84b83ee52b7
   languageName: node
   linkType: hard
 
@@ -8035,6 +8054,16 @@ __metadata:
     fdir: "npm:^6.4.4"
     picomatch: "npm:^4.0.2"
   checksum: 10/3d306d319718b7cc9d79fb3f29d8655237aa6a1f280860a217f93417039d0614891aee6fc47c5db315f4fcc6ac8d55eb8e23e2de73b2c51a431b42456d9e5764
+  languageName: node
+  linkType: hard
+
+"tinyglobby@npm:^0.2.14":
+  version: 0.2.15
+  resolution: "tinyglobby@npm:0.2.15"
+  dependencies:
+    fdir: "npm:^6.5.0"
+    picomatch: "npm:^4.0.3"
+  checksum: 10/d72bd826a8b0fa5fa3929e7fe5ba48fceb2ae495df3a231b6c5408cd7d8c00b58ab5a9c2a76ba56a62ee9b5e083626f1f33599734bed1ffc4b792406408f0ca2
   languageName: node
   linkType: hard
 
