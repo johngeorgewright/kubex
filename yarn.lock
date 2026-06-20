@@ -519,7 +519,7 @@ __metadata:
     "@semantic-release/exec": "npm:6.0.3"
     "@semantic-release/git": "npm:10.0.1"
     "@semantic-release/github": "npm:11.0.6"
-    "@semantic-release/release-notes-generator": "npm:14.1.0"
+    "@semantic-release/release-notes-generator": "npm:14.1.1"
     "@types/node": "npm:22.20.0"
     "@types/semantic-release": "npm:20.0.6"
     "@types/source-map-support": "npm:0.5.10"
@@ -1414,23 +1414,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@semantic-release/release-notes-generator@npm:14.1.0":
-  version: 14.1.0
-  resolution: "@semantic-release/release-notes-generator@npm:14.1.0"
+"@semantic-release/release-notes-generator@npm:14.1.1":
+  version: 14.1.1
+  resolution: "@semantic-release/release-notes-generator@npm:14.1.1"
   dependencies:
     conventional-changelog-angular: "npm:^8.0.0"
     conventional-changelog-writer: "npm:^8.0.0"
     conventional-commits-filter: "npm:^5.0.0"
     conventional-commits-parser: "npm:^6.0.0"
     debug: "npm:^4.0.0"
-    get-stream: "npm:^7.0.0"
     import-from-esm: "npm:^2.0.0"
-    into-stream: "npm:^7.0.0"
     lodash-es: "npm:^4.17.21"
     read-package-up: "npm:^11.0.0"
   peerDependencies:
     semantic-release: ">=20.1.0"
-  checksum: 10/1589a0eb10f687ee26f9fb11c0a94aac315707f832f61b3a49aa96765eb102d3cc0c2671e3bc96cb4ee4f2341767ac38a33c90d99f18adb9b8c2ffd8cc27b445
+  checksum: 10/95b58b59ecb7815a2796b923603227637f0e2c32c0fc4ccbb467ec36e8f0c68bc2adc7a7093de9332a018ecf079a4d3a0442a98dc91bfaa8efd0338995b51d38
   languageName: node
   linkType: hard
 
