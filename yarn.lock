@@ -520,7 +520,7 @@ __metadata:
     "@semantic-release/git": "npm:10.0.1"
     "@semantic-release/github": "npm:11.0.6"
     "@semantic-release/release-notes-generator": "npm:14.1.0"
-    "@types/node": "npm:22.19.18"
+    "@types/node": "npm:22.20.0"
     "@types/semantic-release": "npm:20.0.6"
     "@types/source-map-support": "npm:0.5.10"
     commitizen: "npm:4.3.1"
@@ -1615,12 +1615,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:22.19.18":
-  version: 22.19.18
-  resolution: "@types/node@npm:22.19.18"
+"@types/node@npm:22.20.0":
+  version: 22.20.0
+  resolution: "@types/node@npm:22.20.0"
   dependencies:
     undici-types: "npm:~6.21.0"
-  checksum: 10/464dbc4fb223f7b9d031e377e1207462c57271702e5ca73e3333cdabdbdc73b20ec5d07331ddd7c736ad69c83028c9d7ec6493eda8f7543b36bfe749a68849bf
+  checksum: 10/527db73c68206572fc6209eb8a739c26ea17ba0bd99f776e73654082f9210fb2145a5a5726bdfc5896d41d22e5ae9b8987dcac3dca51774f1ad1a72fc4e7511f
   languageName: node
   linkType: hard
 
