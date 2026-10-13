@@ -539,7 +539,7 @@ __metadata:
     "@types/semantic-release": "npm:20.0.6"
     "@types/source-map-support": "npm:0.5.10"
     commitizen: "npm:4.3.2"
-    concurrently: "npm:9.2.3"
+    concurrently: "npm:9.2.5"
     cz-conventional-changelog: "npm:3.3.0"
     husky: "npm:9.1.7"
     lint-staged: "npm:15.5.2"
@@ -2758,20 +2758,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"concurrently@npm:9.2.3":
-  version: 9.2.3
-  resolution: "concurrently@npm:9.2.3"
+"concurrently@npm:9.2.5":
+  version: 9.2.5
+  resolution: "concurrently@npm:9.2.5"
   dependencies:
     chalk: "npm:4.1.2"
     rxjs: "npm:7.8.2"
-    shell-quote: "npm:1.8.4"
+    shell-quote: "npm:1.12.0"
     supports-color: "npm:8.1.1"
     tree-kill: "npm:1.2.2"
     yargs: "npm:17.7.2"
   bin:
     conc: dist/bin/concurrently.js
     concurrently: dist/bin/concurrently.js
-  checksum: 10/b9a0c12e18fcf18902ff7fb1329342f4c2a4f551eb77e22a6b6743c95349b1482d527110c4e396b09c9736b74c71b1a30ecc6512861d9cb0925e71049bc864df
+  checksum: 10/f8a0ce235ac781df0e6bfa7d95c747cbbdd7d2e1203882d1b43399a03dfd6820fba363a01a5103e9407523dec5b6fafbf2962cffcac4220e9006cb5e96f4e849
   languageName: node
   linkType: hard
 
@@ -7369,10 +7369,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"shell-quote@npm:1.8.4":
-  version: 1.8.4
-  resolution: "shell-quote@npm:1.8.4"
-  checksum: 10/a3e3796385f2cd5cf0b78207a4439f0c7395c0833fc75b2473084b5d298c109c5c0fa687fcd1c04e4b4484866e5bb8eaae7efae443b80fff71ea7e29baf11f0c
+"shell-quote@npm:1.12.0":
+  version: 1.12.0
+  resolution: "shell-quote@npm:1.12.0"
+  checksum: 10/18b3e382272804e79fd3187c18877cfd4e736b5afb576bf1ab66a561b0a0e26eada4b7c8eb45473d1f17268ffcf12d0aaa90b9235132123eb673df5d0a5df943
   languageName: node
   linkType: hard
 
