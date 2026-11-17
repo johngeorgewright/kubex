@@ -52,7 +52,7 @@ const RAW_RUNTIME_STATE =
           ["semantic-release", "npm:24.2.9"],\
           ["source-map-support", "npm:0.5.21"],\
           ["ts-node", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:10.9.2"],\
-          ["tslib", "npm:2.8.1"],\
+          ["tslib", "npm:2.9.1"],\
           ["typescript", "patch:typescript@npm%3A5.9.3#optional!builtin<compat/typescript>::version=5.9.3&hash=5786d5"],\
           ["vitest", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:2.1.9"]\
         ],\
@@ -702,7 +702,7 @@ const RAW_RUNTIME_STATE =
           ["semantic-release", "npm:24.2.9"],\
           ["source-map-support", "npm:0.5.21"],\
           ["ts-node", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:10.9.2"],\
-          ["tslib", "npm:2.8.1"],\
+          ["tslib", "npm:2.9.1"],\
           ["typescript", "patch:typescript@npm%3A5.9.3#optional!builtin<compat/typescript>::version=5.9.3&hash=5786d5"],\
           ["vitest", "virtual:88f814a124068bdc4740e859aad4ec1d849b5be1a2e73fe9d27fb2e081860b9472864f073d3387c34e778af219e8b5f23381757469cefcb8753637c931bdace5#npm:2.1.9"]\
         ],\
@@ -8089,7 +8089,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/rxjs-npm-7.5.5-d0546b1ccb-9c8af134bc.zip/node_modules/rxjs/",\
         "packageDependencies": [\
           ["rxjs", "npm:7.5.5"],\
-          ["tslib", "npm:2.8.1"]\
+          ["tslib", "npm:2.9.1"]\
         ],\
         "linkType": "HARD"\
       }],\
@@ -8097,7 +8097,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/rxjs-npm-7.8.2-80ecda9013-03dff09191.zip/node_modules/rxjs/",\
         "packageDependencies": [\
           ["rxjs", "npm:7.8.2"],\
-          ["tslib", "npm:2.8.1"]\
+          ["tslib", "npm:2.9.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -9207,10 +9207,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.8.1", {\
-        "packageLocation": "./.yarn/cache/tslib-npm-2.8.1-66590b21b8-3e2e043d5c.zip/node_modules/tslib/",\
+      ["npm:2.9.1", {\
+        "packageLocation": "./.yarn/cache/tslib-npm-2.9.1-1db60cfff0-20aa8c3282.zip/node_modules/tslib/",\
         "packageDependencies": [\
-          ["tslib", "npm:2.8.1"]\
+          ["tslib", "npm:2.9.1"]\
         ],\
         "linkType": "HARD"\
       }]\
